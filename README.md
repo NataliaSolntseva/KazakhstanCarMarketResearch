@@ -4,6 +4,8 @@
 
 **Тетрадка проекта**: [доступна по ссылке](https://github.com/NataliaSolntseva/KazakhstanCarMarketResearch/blob/main/Kazakhstan_Car_Market_Research_SolntsevaNS.ipynb)
 
+**Лицензия распространения кода проекта**: Apache License 2.0 
+
 **Используемые технологии**: Python, библиотеки Pandas, Matplotlib, Numpy
 
 **Объект исследования**: данные по продажам автомобилей в Казахстане за 2019 год, содержащие сведения о месяце и сумме продажи автомобиля, характеристики проданного автомобиля в разрезе диллеров
