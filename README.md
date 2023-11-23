@@ -1,4 +1,4 @@
-# KazakhstanCarMarketResearch
+# Kazakhstan Car Market Research
 В рамках проекта проводится исследование авторынка Казахстана за 2019 год. 
 
 **Заказчик**: pet-проект
